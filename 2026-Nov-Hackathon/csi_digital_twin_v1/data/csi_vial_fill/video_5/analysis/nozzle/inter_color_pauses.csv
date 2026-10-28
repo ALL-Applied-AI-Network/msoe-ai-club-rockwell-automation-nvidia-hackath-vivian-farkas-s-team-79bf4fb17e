@@ -1,0 +1,8 @@
+video_id,vial,recipe_id,carryover_suspect,previous_color,next_color,previous_expected_tank,next_expected_tank,start_frame,end_frame,start_time_s,end_time_s,pause_duration_s,interpretation
+5,2,5,false,blue,orange,T200,T400,1881,2100,62.700,70.000,7.333,visible stream-off interval between different measured color phases
+5,4,6,true,clear_candidate,orange,T200,T100,4255,4663,141.833,155.433,13.633,visible stream-off interval between different measured color phases
+5,6,6,false,clear_candidate,blue,,,6931,6946,231.033,231.533,0.533,visible stream-off interval between different measured color phases
+5,6,6,false,clear_candidate,orange,,,7000,7202,233.333,240.067,6.767,visible stream-off interval between different measured color phases
+5,10,8,true,blue,clear_candidate,T200,T400,13739,14044,457.967,468.133,10.200,visible stream-off interval between different measured color phases
+5,12,8,false,clear_candidate,orange,T100,,17250,17498,575.000,583.267,8.300,visible stream-off interval between different measured color phases
+5,30,14,false,clear_candidate,blue,T400,T100,50624,50652,1687.467,1688.400,0.967,visible stream-off interval between different measured color phases

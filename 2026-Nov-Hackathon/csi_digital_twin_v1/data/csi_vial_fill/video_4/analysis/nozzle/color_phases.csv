@@ -1,0 +1,13 @@
+video_id,vial,recipe_id,carryover_suspect,phase_index,observed_color_nearest,expected_tank_by_order,expected_color_by_order,order_alignment,candidate_T100,start_frame,end_frame,start_time_s,end_time_s,elapsed_duration_s,active_flow_duration_s,active_frame_count,median_hue_opencv,median_saturation,median_value,median_lab_l_8bit,median_lab_a_8bit,median_lab_b_8bit,median_color_sample_pixels,label_window_start_s,label_window_end_s
+4,1,,,1,blue,,,no_order_phase,false,320,673,10.667,22.433,11.800,11.800,354,87.0,59.0,143.0,144.0,115.8,126.0,237,,
+4,2,,,1,blue,,,no_order_phase,false,1692,2046,56.400,68.200,11.833,11.833,355,87.0,66.0,138.0,140.0,115.0,126.0,240,,
+4,3,,,1,blue,,,no_order_phase,false,3076,3427,102.533,114.233,11.733,11.733,352,86.0,71.0,147.5,149.0,113.0,127.0,240,,
+4,4,,,1,blue,,,no_order_phase,false,4195,5126,139.833,170.867,31.067,13.433,403,86.0,46.0,157.0,159.0,118.0,126.0,206,,
+4,4,,,2,orange,,,no_order_phase,false,5127,5191,170.900,173.033,2.167,2.167,65,55.0,24.0,142.0,148.0,121.0,134.0,239,,
+4,4,,,3,blue,,,no_order_phase,false,5192,5387,173.067,179.567,6.533,6.533,196,80.0,42.0,145.0,149.0,118.0,130.0,239,,
+4,5,,,1,blue,,,no_order_phase,false,6131,7089,204.367,236.300,31.967,13.867,416,84.0,46.0,145.0,148.0,118.0,128.0,231,,
+4,5,,,2,orange,,,no_order_phase,false,7090,7123,236.333,237.433,1.133,1.133,34,54.0,26.0,135.0,141.0,121.0,134.0,240,,
+4,5,,,3,blue,,,no_order_phase,false,7124,7337,237.467,244.567,7.133,7.133,214,76.0,44.0,144.0,147.0,117.0,131.0,240,,
+4,6,,,1,blue,,,no_order_phase,false,8083,9040,269.433,301.333,31.933,13.400,402,84.0,43.0,154.0,157.0,117.0,128.0,216,,
+4,6,,,2,orange,,,no_order_phase,false,9041,9099,301.367,303.300,1.967,1.967,59,55.0,23.0,136.0,142.0,122.0,133.0,240,,
+4,6,,,3,blue,,,no_order_phase,false,9100,9286,303.333,309.533,6.233,6.233,187,78.0,41.0,141.0,144.0,118.0,130.0,240,,

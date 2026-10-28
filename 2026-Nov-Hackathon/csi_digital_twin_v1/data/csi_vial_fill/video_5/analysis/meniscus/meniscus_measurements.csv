@@ -1,0 +1,31 @@
+video_id,vial,recipe_id,position_in_recipe,carryover_suspect,sample_frame,sample_time_s,source_total_ml,measurement_status,meniscus_y_min_px,meniscus_y_max_px,vial_bottom_reference_y_px,liquid_height_min_px,liquid_height_max_px,confidence,notes
+5,1,5,1,true,844,28.133,30,visible,305,328,400,72,95,low,Meniscus visible below holder; first vial of clip and recipe group so preceding process state is unknown.
+5,2,5,2,false,2238,74.600,30,visible,304,329,400,71,96,medium,Meniscus visible below holder.
+5,3,5,3,false,3633,121.100,30,visible,304,330,400,70,96,medium,Meniscus visible below holder.
+5,4,6,1,true,4866,162.200,40,visible,290,313,400,87,110,low,Meniscus visible below holder; first vial after recipe switch.
+5,5,6,2,false,6125,204.167,40,visible,286,310,400,90,114,medium,Meniscus visible below holder.
+5,6,6,3,false,7408,246.933,40,visible,285,309,400,91,115,medium,Meniscus visible below holder.
+5,7,7,1,true,9284,309.467,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band; first vial after recipe switch.
+5,8,7,2,false,10876,362.533,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,9,7,3,false,12492,416.400,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,10,8,1,true,14195,473.167,60,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band; first vial after recipe switch.
+5,11,8,2,false,15896,529.867,60,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,12,8,3,false,17661,588.700,60,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,13,9,1,true,19772,659.067,80,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band; first vial after recipe switch.
+5,14,9,2,false,21843,728.100,80,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,15,9,3,false,23990,799.667,80,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,16,10,1,true,25754,858.467,75,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band; first vial after recipe switch.
+5,17,10,2,false,27470,915.667,75,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,18,10,3,false,29172,972.400,75,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,19,11,1,true,30998,1033.267,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band; first vial after recipe switch.
+5,20,11,2,false,32823,1094.100,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,21,11,3,false,34662,1155.400,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,22,12,1,true,36698,1223.267,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band; first vial after recipe switch.
+5,23,12,2,false,38771,1292.367,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,24,12,3,false,40844,1361.467,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,25,13,1,true,42843,1428.100,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band; first vial after recipe switch.
+5,26,13,2,false,44742,1491.400,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,27,13,3,false,46705,1556.833,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.
+5,28,14,1,true,48099,1603.300,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band; first vial after recipe switch.
+5,29,14,2,false,49481,1649.367,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band; internal color boundary is not treated as the liquid surface.
+5,30,14,3,false,50875,1695.833,70,holder_obscured,205,263,400,137,195,low,Meniscus falls within the holder-obscured vertical band.

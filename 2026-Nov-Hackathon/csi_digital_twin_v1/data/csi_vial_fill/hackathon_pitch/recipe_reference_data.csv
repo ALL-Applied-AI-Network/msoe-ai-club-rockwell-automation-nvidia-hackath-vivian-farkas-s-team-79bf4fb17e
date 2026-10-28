@@ -1,0 +1,11 @@
+recipe_id,type,t100_ml,t200_ml,t400_ml,total_ml,dispense_order,color_purpose,source
+5,Triple,10,10,10,30,T200>T400>T100,mixed - low even (swapped in),Video 5 labeled reference; source recipe table
+6,Pair 100+200,30,10,0,40,T200>T100,pale orange (fresh ratio),Video 5 labeled reference; source recipe table
+7,Pair 100+400,20,0,50,70,T400>T100,pale blue (fresh ratio),Video 5 labeled reference; source recipe table
+8,Triple,20,20,20,60,T200>T400>T100,even (links to Cfg D),Video 5 labeled reference; source recipe table
+9,Triple,10,35,35,80,T200>T400>T100,dark saturated (low clear),Video 5 labeled reference; source recipe table
+10,Triple,45,15,15,75,T200>T400>T100,pale wash (high clear),Video 5 labeled reference; source recipe table
+11,Triple,10,10,50,70,T200>T400>T100,,Video 5 labeled reference; source recipe table
+12,Triple,10,50,10,70,T200>T400>T100,,Video 5 labeled reference; source recipe table
+13,Pair 200+400,0,50,20,70,T200>T400,,Video 5 labeled reference; source recipe table
+14,Pair 100+400,60,0,10,70,T400>T100,,Video 5 labeled reference; source recipe table

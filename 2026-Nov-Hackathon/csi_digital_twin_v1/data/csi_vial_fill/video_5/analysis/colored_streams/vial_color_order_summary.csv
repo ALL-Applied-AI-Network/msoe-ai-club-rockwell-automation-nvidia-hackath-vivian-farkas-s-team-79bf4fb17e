@@ -1,0 +1,31 @@
+video_id,vial,recipe_id,carryover_suspect,recipe_dispense_order,expected_visible_colored_order,observed_visible_color_sequence,sequence_respects_recipe_order,expected_colored_phases_detected,expected_colors_not_detected,detected_phase_count,labeled_window_start_s,labeled_window_end_s,orange_to_blue_unclassified_interval_s,orange_to_blue_interval_note
+5,1,5,true,T200>T400>T100,orange>blue,orange>blue,true,orange>blue,none,2,0.000,26.894,12.400,No orange/blue signal detected in interval; may include clear flow or pause.
+5,2,5,false,T200>T400>T100,orange>blue,blue>orange,false,orange,blue,2,46.204,73.645,,Not calculated because both ordered color phases were not detected.
+5,3,5,false,T200>T400>T100,orange>blue,orange,false,orange,blue,1,91.720,120.503,,Not calculated because both ordered color phases were not detected.
+5,4,6,true,T200>T100,orange,orange,true,orange,none,1,138.250,161.318,,Not applicable for this recipe's colored order.
+5,5,6,false,T200>T100,orange,orange,true,orange,none,1,179.096,203.085,,Not applicable for this recipe's colored order.
+5,6,6,false,T200>T100,orange,blue>orange>blue>orange,false,orange,none,4,221.015,246.390,,Not applicable for this recipe's colored order.
+5,7,7,true,T400>T100,blue,orange>blue,false,blue,none,2,284.669,308.023,,Not applicable for this recipe's colored order.
+5,8,7,false,T400>T100,blue,blue,true,blue,none,1,336.839,360.979,,Not applicable for this recipe's colored order.
+5,9,7,false,T400>T100,blue,blue,true,blue,none,1,391.343,414.236,,Not applicable for this recipe's colored order.
+5,10,8,true,T200>T400>T100,orange>blue,blue>orange,false,orange,blue,2,434.761,472.752,,Not calculated because both ordered color phases were not detected.
+5,11,8,false,T200>T400>T100,orange>blue,orange>blue>orange,false,orange>blue,none,3,491.795,528.275,0.000,Colored detections overlap or are adjacent.
+5,12,8,false,T200>T400>T100,orange>blue,orange>blue>orange,false,orange>blue,none,3,548.774,586.539,0.000,Colored detections overlap or are adjacent.
+5,13,9,true,T200>T400>T100,orange>blue,orange>blue>orange>blue,false,orange>blue,none,4,609.721,656.353,0.000,Colored detections overlap or are adjacent.
+5,14,9,false,T200>T400>T100,orange>blue,blue>orange>blue,false,orange>blue,none,3,679.525,725.968,0.000,Colored detections overlap or are adjacent.
+5,15,9,false,T200>T400>T100,orange>blue,blue>orange>blue,false,orange>blue,none,3,749.500,797.504,0.000,Colored detections overlap or are adjacent.
+5,16,10,true,T200>T400>T100,orange>blue,blue>orange>blue>orange,false,orange>blue,none,4,817.671,855.988,0.000,Colored detections overlap or are adjacent.
+5,17,10,false,T200>T400>T100,orange>blue,orange>blue>orange,false,orange>blue,none,3,875.566,913.594,0.000,Colored detections overlap or are adjacent.
+5,18,10,false,T200>T400>T100,orange>blue,orange>blue>orange,false,orange>blue,none,3,932.431,969.911,0.000,Colored detections overlap or are adjacent.
+5,19,11,true,T200>T400>T100,orange>blue,orange>blue,true,orange>blue,none,2,989.484,1030.938,6.267,No orange/blue signal detected in interval; may include clear flow or pause.
+5,20,11,false,T200>T400>T100,orange>blue,blue,false,none,orange>blue,1,1050.381,1092.239,,Not calculated because both ordered color phases were not detected.
+5,21,11,false,T200>T400>T100,orange>blue,blue,false,none,orange>blue,1,1110.856,1153.286,,Not calculated because both ordered color phases were not detected.
+5,22,12,true,T200>T400>T100,orange>blue,blue>orange,false,orange,blue,2,1179.569,1220.602,,Not calculated because both ordered color phases were not detected.
+5,23,12,false,T200>T400>T100,orange>blue,orange,false,orange,blue,1,1246.409,1289.899,,Not calculated because both ordered color phases were not detected.
+5,24,12,false,T200>T400>T100,orange>blue,orange,false,orange,blue,1,1316.497,1359.865,,Not calculated because both ordered color phases were not detected.
+5,25,13,true,T200>T400,orange>blue,orange,false,orange,blue,1,1384.465,1423.660,,Not calculated because both ordered color phases were not detected.
+5,26,13,false,T200>T400,orange>blue,orange,false,orange,blue,1,1451.327,1487.312,,Not calculated because both ordered color phases were not detected.
+5,27,13,false,T200>T400,orange>blue,orange,false,orange,blue,1,1514.322,1551.569,,Not calculated because both ordered color phases were not detected.
+5,28,14,true,T400>T100,blue,orange,false,none,blue,1,1579.512,1601.142,,Not applicable for this recipe's colored order.
+5,29,14,false,T400>T100,blue,blue,true,blue,none,1,1625.047,1646.633,,Not applicable for this recipe's colored order.
+5,30,14,false,T400>T100,blue,blue,true,blue,none,1,1671.265,1693.804,,Not applicable for this recipe's colored order.
